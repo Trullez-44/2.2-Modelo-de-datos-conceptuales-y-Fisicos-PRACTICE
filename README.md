@@ -58,3 +58,16 @@ En el mundo del skate, el patrocinio es esencial para impulsar a nuevos talentos
 - **Campañas de Marketing** para planificar y registrar campañas publicitarias, incluyendo el contenido, canales de promoción y presupuesto.
 
 Un programa de sponsor y marketing sólido puede ayudar a nuestro skateshop a destacar en la comunidad del skate y a respaldar a talentosos skaters, al tiempo que aumenta la visibilidad de nuestra marca. Utiliza un modelo de datos conceptual para mantener un registro organizado y eficiente de estos aspectos clave.
+## 2 Modelos de Datos FÍSICOS
+
+### 1. Registro de Clientes
+
+El registro de clientes es esencial para brindar un servicio personalizado y mantener una comunicación efectiva. Un modelo conceptual puede organizar la información de los clientes de nuestro skateshop de manera eficiente.
+
+![Hola](/imgs/customer-skateshop.png)
+
+### 5. Programa de Sponsor y Marketing
+
+En el mundo del skate, el patrocinio es esencial para impulsar a nuevos talentos y promocionar marcas. Un modelo conceptual puede facilitar la gestión de un programa de patrocinio y marketing en nuestro skateshop. 
+
+![Holax2](/imgs/sponsors.png)
